@@ -1,46 +1,40 @@
 ![Yvonne Nduta GitHub Banner](./yvonnebanner.png)
 
-# 👋 Hello, I'm Yvonne Nduta Wangui and Welcome to my GitHub profile!
+# 👋🏾 Hi, I’m Yvonne Nduta Wangui
 
-I'm a seasoned Software Engineer based in Nairobi, Kenya, with over 7 years of experience designing and developing scalable backend systems, cloud-native solutions, and IoT data infrastructure.
+Welcome to my corner of GitHub!
 
-## 🔧 Areas of Expertise
+I'm a Software Engineer based in Nairobi, Kenya, with 7+ years of experience building scalable systems, working with connected devices, and turning data into meaningful insights. I care deeply about creating tools and experiences that are reliable, thoughtful, and impactful — especially in communities that need them most.
 
-- **Backend Development**: .NET (C#), ASP.NET Core, RESTful APIs
-- **Data & Storage**: Entity Framework Core, PostgreSQL, SQL optimization, data modeling
-- **IoT Systems**: Device shadow management, firmware updates (OTA), MQTT, AWS IoT Core
-- **Cloud & DevOps**: AWS (S3, EC2, App Runner), Docker, GitHub Actions, CI/CD
-- **Workflow Automation**: Hangfire, Orleans, background processing pipelines
+## 🛠 What I Work On
 
-## 🏢 Industry Experience
+- Backend systems in **.NET (C#)** & **PostgreSQL**
+- IoT platforms — managing devices, data pipelines, and OTA updates
+- Cloud architecture on **AWS**, and automation with tools like **Hangfire** and **GitHub Actions**
+- AI and wellness tech — combining logic and compassion
 
-- **Burn Manufacturing**: Building IoT and data analytics platforms for energy devices in Africa
-- **Microsoft (EMEA)**: Contributed to key enterprise solutions across cloud platforms, dev tools, and customer engineering; focused on system design, scalability, and performance optimization
-- **Creare Africa** and **Netwookie Ltd**: Early-stage contributions to full-stack projects and fintech integrations
+## 💼 Where I’ve Been
 
-## 🚀 Current Work
+- 🏭 **Burn Manufacturing** – Building IoT and analytics platforms for clean energy across Africa  
+- 💻 **Microsoft (EMEA)** – Delivered cloud-first enterprise solutions across diverse markets  
+- 🌱 **Creare Africa** & **Netwookie Ltd** – Full-stack innovation in fintech and impact spaces
 
-- Designing scalable OTA update infrastructure with automated job scheduling and monitoring
-- Leading data-driven development for IoT provisioning, credit systems, and reporting workflows
-- Developing **JobAura** – an AI-powered platform for intelligent job search and preparation
+## 🚀 Currently Exploring
 
-## 🧠 Currently Exploring
+- **Next.js** for building sleek, modern web UIs  
+- **Agent AI** for smart automation and decision flows  
+- Tools that combine tech + wellness + creativity (think n8n, LangChain, and Canva)
 
-- **Next.js** for building fast, modern UI experiences
-- **Agent AI** for intelligent automation and adaptive decision systems
-- Embedded systems and edge computing
-- AI-powered automation (n8n, OpenAI)
-- Wellness technology and digital content ecosystems
+## 🌐 On the Side
 
-## 🌐 Online Projects
+- Founder of [Tsuki Wellness](https://tsukiwellness.com) – a digital space for holistic wellness  
+- Creator of **JobAura** – an AI-powered job search assistant (in progress!)  
+- Forever curious about human-centered systems, design, and growth
 
-- Founder of [Tsuki Wellness](https://tsukiwellness.com) – a holistic wellness platform blending technology, mindfulness, and personal development
-- Contributor to internal tooling, platform services, and infrastructure at Burn Manufacturing
+## 📬 Let’s Connect
 
-## 📫 Contact
-
-- 💼 [LinkedIn](https://linkedin.com/in/yvonnenduta)
-- 📧 yvonnendutaw@gmail.com
+- [LinkedIn](https://linkedin.com/in/yvonnenduta)  
+- yvonnendutaw@gmail.com  
 
 ---
 
