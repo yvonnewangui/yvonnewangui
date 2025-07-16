@@ -1,3 +1,5 @@
+![Yvonne Nduta GitHub Banner](./yvonnebanner.png)
+
 # 👋 Hello, I'm Yvonne Nduta Wangui
 
 Welcome to my GitHub profile. I'm a seasoned Software Engineer based in Nairobi, Kenya, with over 7 years of experience designing and developing scalable backend systems, cloud-native solutions, and IoT data infrastructure.
