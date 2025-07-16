@@ -22,7 +22,7 @@ Welcome to my GitHub profile. I'm a seasoned Software Engineer based in Nairobi,
 - Leading data-driven development for IoT provisioning, credit systems, and reporting workflows
 - Developing **JobAura** – an AI-powered platform for intelligent job search and preparation
 
-## 🧠 Always Exploring
+## 🧠 Currently Exploring
 
 - **Next.js** for building fast, modern UI experiences
 - **Agent AI** for intelligent automation and adaptive decision systems
