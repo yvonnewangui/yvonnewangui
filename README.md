@@ -1,4 +1,3 @@
-![Yvonne Nduta GitHub Banner](./yvonnebanner.png)
 
 # 👋🏾 Hi, I’m Yvonne
 
