@@ -1,6 +1,6 @@
 ![Yvonne Nduta GitHub Banner](./yvonnebanner.png)
 
-# 👋🏾 Hi, I’m Yvonne Nduta Wangui
+# 👋🏾 Hi, I’m Yvonne
 
 Welcome to my corner of GitHub!
 
